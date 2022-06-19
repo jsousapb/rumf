@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bem-vindos, bem-vindas, bem-vindes!
 
-You can use the [editor on GitHub](https://github.com/jsousapb/rumf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Esse é um espaço para divulgação das propostas de uma chapa para a coordenação da Residência Universitária Masculina e Feminina (RUMF) da Universidade Federal da Paraíba. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
